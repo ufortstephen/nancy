@@ -54,7 +54,7 @@ span {
 .text {
     position: relative;
     top: 15rem !important;
-    left: 18rem;
+    left: 15rem;
     z-index: 1;
 }
 
