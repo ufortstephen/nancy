@@ -38,7 +38,7 @@ span {
 }
 
 .right-links {
-    padding: 4rem 0rem !important;
+    padding: 3rem 0rem !important;
 }
 
 .top {
@@ -72,10 +72,10 @@ span {
 .about::before {
     content: "";
     background-color: #fff;
-    height: 50px;
+    height: 40px;
     width: 2px;
-    top: 0;
-    left: 30%;
+    top: -18px;
+    left: 15%;
     position: absolute;
 }
 
